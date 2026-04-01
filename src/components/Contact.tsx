@@ -16,7 +16,7 @@ export default function Contact() {
       {/* Background photo with heavy overlay */}
       <div className="absolute inset-0">
         <Image
-          src="/anara.jpg"
+          src="https://qcfsyxgfwfeiorfymnfi.supabase.co/storage/v1/object/public/images/anara.jpg"
           alt=""
           fill
           className="object-cover object-top opacity-[0.07]"

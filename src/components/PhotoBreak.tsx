@@ -17,7 +17,7 @@ export default function PhotoBreak() {
     <section ref={ref} className="relative h-[50vh] md:h-[70vh] overflow-hidden bg-bg-dark">
       <motion.div style={{ y }} className="absolute inset-0 scale-[1.2]">
         <Image
-          src="/damu-logo.png"
+          src="https://qcfsyxgfwfeiorfymnfi.supabase.co/storage/v1/object/public/images/damu-logo.png"
           alt="Казахстанская ассоциация Даму"
           fill
           className="object-contain opacity-40"

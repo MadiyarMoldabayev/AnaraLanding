@@ -86,7 +86,7 @@ export default function Hero() {
           className="relative h-[60vh] md:h-auto order-1 md:order-2"
         >
           <Image
-            src="/anara.jpg"
+            src="https://qcfsyxgfwfeiorfymnfi.supabase.co/storage/v1/object/public/images/anara.jpg"
             alt="Анара Битебаева"
             fill
             className="object-cover object-top"
